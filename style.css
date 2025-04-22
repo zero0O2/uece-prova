@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 20px 30px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+li{
+    display: flex;
+    gap:0 10px;
+    margin: 8px 0;
+}
+
+li div{
+    display: none;
+    height: 20px;
+}
+
+li label{
+    max-width: 80%;
+    min-height: 30px;
+}
+
+.check:checked + label + div{
+    display: flex;
+}
+
+.check:checked{
+    margin-left: 10px;
+}
+.check{
+    width: 20px;
+    height: 20px;
+    
+}
+
+/* =================================================== */
+
+body{
+    background-color: #F2EFE9;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222222;
+}
+
+aside{
+    font-size: 35px;
+    margin:20px 0 60px 0;
+}
+
+div#display{
+    
+}
+
+div#display h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: rgb(54, 54, 54);
+}
+
+div#display div{
+    width: 570px;
+    margin-bottom: 40px;
+}

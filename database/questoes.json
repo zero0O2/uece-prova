@@ -1,0 +1,125 @@
+
+{
+    "questoes" : [
+      {
+        "pergunta": "TEXTO 1 <br>Admirável Chip Novo (Pitty)<br>Pane no sistema, alguém me desconfigurou<br>Aonde estão meus olhos de robô? <br>Eu não sabia, eu não tinha percebido <br>Eu sempre achei que era vivo<br><br> Parafuso e fluido em lugar de articulação<br>Até achava que aqui batia um coração <br>Nada é orgânico, é tudo programado<br>E eu achando que tinha me libertado <br><br>Mas lá vêm eles novamente <br>Eu sei o que vão fazer <br>Reinstalar o sistema <br><br>Pense, fale, compre, beba <br>Leia, vote, não se esqueça <br>Use, seja, ouça, diga <br>Tenha, more, gaste, viva <br><br>Pense, fale, compre, beba<br>Leia, vote, não se esqueça<br>Use, seja, ouça, diga <br><br>Não, senhor, sim, senhor<br>Não, senhor, sim, senhor <br>Mas lá vêm eles novamente <br>Eu sei o que vão fazer <br>Reinstalar o sistema <br><br> 1.O título da canção dialoga com um famoso livro de Aldous Huxley, escrito em 1932, Admirável Mundo Novo, que trata de uma sociedade padronizada e perfeita, composta por pessoas despersonalizadas, reguladas pelos recursos tecnológicos. O fenômeno textual que permite essa referência a outro texto denomina-se",
+        "certo":0,
+        "alternativas":{
+            "0": "A) intertextualidade.",
+            "1": "B) infratextualidade.",
+            "2": "C) descontinuidade.",
+            "3": "D) aceitabilidade. "
+        }
+      },
+      {
+        "pergunta": "2. A letra da canção apresentada faz uma crítica",
+        "certo":1,
+        "alternativas":{
+            "0": "A) à religião.",
+            "1": "B) ao consumismo.",
+            "2": "C) à guerra.",
+            "3": "D) ao paganismo."
+        }
+      },
+      {
+        "pergunta": "3. O propósito do texto 1 ao retomar o tema do livro Admirável Mundo Novo é",
+        "certo":2,
+        "alternativas":{
+            "0": "A) contrapor o mundo atual ao mundo antigo. ",
+            "1": "B) criticar Aldous Huxley devido à temática do livro.",
+            "2": "C) refletir sobre o uso da tecnologia como forma de manipulação social.",
+            "3": "D) atestar que o mundo contemporâneo é melhor que o mundo antigo."
+        }
+      },
+      {
+        "pergunta": "4. No trecho: “Nada é orgânico, é tudo programado” (linha 07), a vírgula pode ser substituída, sem prejuízo de sentido, pelo conectivo ",
+        "certo":2,
+        "alternativas":{
+            "0": "A) mas.",
+            "1": "B) entretanto.",
+            "2": "C) porque. ",
+            "3": "D) até."
+        }
+      },
+      {
+        "pergunta": "5. Observa-se, no texto 1, a presença de duas pessoas, um “eu lírico” e um “eles”, sobre as quais é correto afirmar que",
+        "certo":1,
+        "alternativas":{
+            "0": "A) são duas pessoas dialogando sobre a importância das tecnologias.",
+            "1": "B) o “eu lírico” remete ao dominado e o “eles” àqueles controladores do sistema.",
+            "2": "C) são duas pessoas que se interceptam pelas mesmas forças do sistema de manipulação social. ",
+            "3": "D) “eles” podem ser quaisquer indivíduos alheios ao sistema e o “eu lírico” um indivíduo alijado socialmente. "
+        }
+      },
+      {
+        "pergunta": "6. O uso de verbos no modo imperativo no trecho: “Pense, fale, compre, beba/Leia, vote, não se esqueça/Use, seja,/ouça, diga/Tenha, more, gaste, viva” (linhas 12-15) indica que há a intenção de",
+        "certo":0,
+        "alternativas":{
+            "0": " A) induzir as pessoas a realizarem as ações pretendidas por quem ou aquilo que controla o sistema. ",
+            "1": "B) provocar as pessoas a participarem de um jogo de situações sociais infrutíferas. ",
+            "2": "C) automatizar aleatoriamente as pessoas para fins lúdicos. ",
+            "3": "D) encaminhar os participantes das ações para um confuso conjunto de atividades."
+        }
+      },
+      {
+        "pergunta": "TEXTO 2<br> <br> Ministério da Saúde atualiza cenário epidemiológico sobre a dengue no Brasil <br> <br> A ministra da Saúde, Nísia Trindade, atualizou <br> nesta terça-feira (5), junto a técnicos e especialistas<br> da pasta, o cenário dos casos e mortes por dengue <br> no Brasil. Em entrevista a jornalistas, Nísia destacou <br> que a aceleração de registros de casos da doença<br> no início deste ano está associada muito fortemente à mudança climática. <br> Nísia reforçou que a união com estados e <br> municípios tem sido valiosa para o combate ao <br> Aedes aegypti. “Foram feitas campanhas para <br> combate ao mosquito em anos anteriores. Desta <br> vez, no entanto, um ponto importante está sendo<br> essa forte sinergia entre Ministério, estado e <br> municípios por meio de seus conselhos. Isso é <br> muito importante porque o Ministério da Saúde<br> nunca teria sucesso se pensasse só em ações de <br> gabinete”, disse Trindade. <br> Durante a apresentação aos jornalistas, <br> também foi anunciado que, em breve, a pasta deve <br> emitir uma nota técnica recomendando a <br> ampliação da faixa etária do público a ser vacinado<br> contra a dengue. Foi feito um cálculo para não deixar descoberta a população prioritária já atendida com a primeira dose que, até então, tem recomendação para crianças de 10 e 11 anos. A pasta fará estudo para ampliar para a faixa etária de 14 anos, respeitados os critérios já estabelecidos para prioridades. O documento deve estar disponível para a população nos próximos dias. “Para além da vacinação, nós temos dois focos: a prevenção com o controle do vetor e o cuidado por meio da nossa rede de atenção à saúde”, explicou a secretária de Vigilância em Saúde e Ambiente, Ethel Maciel. Quanto aos insumos disponibilizados aos estados, foram enviados:  348,5 mil testes de sorologia;  177,1 mil testes de biologia molecular;  41,2 mil kg de larvicidas; e  139 mil L de adulticidas para uso em fumacê. Até o momento, o Ministério da Saúde destinou R$ 44 milhões para apoiar gestores locais que declararam emergência em saúde pública para o enfrentamento da dengue. Os recursos são parte do total de R$ 1,5 bilhão reservado pela pasta para este fim. Do montante, R$ 6,7 milhões foram para os estados, R$ 5,5 milhões para o Distrito Federal e R$ 31,7 milhões para os municípios. O apoio financeiro será destinado para medidas de prevenção, controle e contenção de riscos, danos e agravos à saúde pública. Até o momento, foram contemplados com o auxílio financeiro Minas Gerais, Goiás, Distrito Federal e mais 79 municípios desses e de outros estados. São eles: Rio de Janeiro, São Paulo, Rio Grande do Sul, Santa Catarina, Paraná, Amapá e Bahia. Ações de combate ao mosquito Desde 2023, o Ministério da Saúde está em constante monitoramento e alerta quanto ao cenário epidemiológico da dengue no Brasil, coordenando uma série de ações para o enfrentamento das arboviroses em todo o território nacional. A pasta adquiriu todo o estoque disponível de vacinas da dengue do laboratório fabricante - 5,2 milhões de doses que serão entregues entre fevereiro e novembro de 2024. Além dessas, também serão distribuídas 1,32 milhão de doses fornecidas sem custo ao governo federal. Para 2025, 9 milhões de doses que estavam disponíveis também foram compradas. É importante reforçar que outras aquisições podem ser feitas se houver nova disponibilidade de doses à pasta. Também foi instalado ainda o Centro de Operações de Emergência contra a dengue (COE Dengue). A iniciativa, coordenada pelo Ministério da Saúde, em conjunto com estados e municípios, visa acelerar a organização de estratégias de vigilância frente ao aumento de casos no Brasil, permitindo mais agilidade no monitoramento e análise do cenário para definição de ações adequadas e oportunas para o enfrentamento da doença no país. <br><br>7. O objetivo principal do texto 2 é",
+        "certo":3,
+        "alternativas":{
+            "0": "A) comparar a situação da dengue no Brasil com a de outros países",
+            "1": "B) mostrar a queda do número de casos de dengue no Brasil.",
+            "2": "C) protestar contra a situação da dengue no Brasil e em outros países.",
+            "3": "D) informar a população sobre a situação da dengue no Brasil."
+        }
+      },
+      {
+        "pergunta": "08. Nos trechos, “Foram feitas campanhas para combate ao mosquito em anos anteriores. Desta vez, no entanto, um ponto importante está sendo essa forte sinergia entre Ministério, estado e municípios por meio de seus conselhos. Isso é muito importante porque o Ministério da Saúde nunca teria sucesso se pensasse só em ações de gabinete” (linhas 33-40) e “Para além da vacinação, nós temos dois focos: a prevenção com o controle do vetor e o cuidado por meio da nossa rede de atenção à saúde” (linhas 53-56), o uso das aspas justifica-se por",
+        "certo":1,
+        "alternativas":{
+            "0": "A) indicar o uso de gírias e jargões. ",
+            "1": "B) marcar o início e o final da fala de outrem.",
+            "2": "C) indicar que um vocábulo foi escrito propositalmente de forma incorreta. ",
+            "3": "D) destacar o uso de expressões irônicas"
+        }
+      },
+      {
+        "pergunta": "9. Segundo o texto, o combate à dengue envolve",
+        "certo":0,
+        "alternativas":{
+            "0": "A) vacinação, controle do vetor e o cuidado ao paciente. ",
+            "1": "B) vacinação, prisões e campanhas. ",
+            "2": "C) campanhas contraditórias e distribuição aleatória de herbicidas.",
+            "3": "D) campanhas, interdição dos locais contaminados e prisões. "
+        }
+      },
+      {
+        "pergunta": "10. O texto pertence ao gênero textual notícia porque apresenta, em sua estrutura,",
+        "certo":3,
+        "alternativas":{
+            "0": " A) um entrevistador e um entrevistado, com marcas acentuadas do discurso direto, mesclando a linguagem formal com a linguagem informal. ",
+            "1": "B) abundância de argumentos para salientar as opiniões, com frequente uso de verbos no presente do indicativo além da notável presença do autor. ",
+            "2": "C) subjetividade marcada pelo uso de linguagem simples e coloquial, repleta de adjetivos, para narrar um acontecimento.",
+            "3": " D) divulgação de fatos, acrescida de dados que fortalecem as informações, com predominância de verbos no passado, demarcando o tempo em que os fatos ocorreram. "
+        }
+      },
+      {
+        "pergunta": "11. No texto 2, alguns elementos e expressões são responsáveis por estabelecer a coesão textual para marcar a retomada ou a sequenciação de elementos, contribuindo para o sentido do texto. Assinale a opção em que a correspondência dos elementos do texto está correta.",
+        "certo":1,
+        "alternativas":{
+            "0": "A) “mudança climática” (linha 30) remete a “registros de casos da doença” (linha 28).",
+            "1": "B) “pasta” (linha 42) retoma “Ministério” (linha 38). ",
+            "2": "C) “uma série de ações” (linha 85) refere-se a “do laboratório fabricante” (linha 89).",
+            "3": "D) “documento” (linha 51) recupera “campanhas para combate” (linhas 33-34)."
+        }
+      },
+      {
+        "pergunta": "12. A palavra “sinergia” (linha 36), no texto 2, significa",
+        "certo":0,
+        "alternativas":{
+            "0": "A) energia.",
+            "1": " B) revolução. ",
+            "2": "C) união.",
+            "3": " D) cura. "
+        }
+      }
+    ]
+}

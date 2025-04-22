@@ -4,67 +4,64 @@
     padding: 0;
 }
 body{
-    padding: 20px 30px;
-}
-
-ul{
-    list-style-type: none;
-    display: flex;
-    flex-direction: column;
-}
-li{
-    display: flex;
-    gap:0 10px;
-    margin: 8px 0;
-}
-
-li div{
-    display: none;
-    height: 20px;
-}
-
-li label{
-    max-width: 80%;
-    min-height: 30px;
-}
-
-.check:checked + label + div{
-    display: flex;
-}
-
-.check:checked{
-    margin-left: 10px;
-}
-.check{
-    width: 20px;
-    height: 20px;
-    
-}
-
-/* =================================================== */
-
-body{
-    background-color: #F2EFE9;
     font-family: Arial, Helvetica, sans-serif;
-    color: #222222;
+    color: rgb(47, 47, 47);
+    padding: 30px 30px 40px 30px;
+    background-color: #F2EFE9;
 }
 
 aside{
     font-size: 35px;
-    margin:20px 0 60px 0;
+    margin-bottom: 50px;
 }
 
 div#display{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.perguntas{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    width: 480px;
+}
+
+.perguntas h1{
+    font-size: 20px;
+    color: rgb(65, 65, 65);
+}
+
+.perguntas li input{
+    transform: scale(1.6);
+}
+
+.perguntas ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+    gap: 16px 0;
+}
+
+.perguntas li{
+    display: flex;
+    align-items: center;
+    gap: 0 20px;
+    justify-content: flex-start;
+    min-height: 30px;
     
 }
-
-div#display h1{
-    font-size: 20px;
-    margin-bottom: 10px;
-    color: rgb(54, 54, 54);
+.perguntas li label{
+    word-wrap: break-word;
+    width: 400px;
+    font-size: 16px;
 }
 
-div#display div{
-    width: 570px;
-    margin-bottom: 40px;
+.perguntas li div{
+    display: none;
+}
+.check:checked + label + div{
+    display: flex;
 }

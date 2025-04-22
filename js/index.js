@@ -8,7 +8,7 @@ fetch(api)
 .then((api)=>{
     api.forEach((element,index) => {
         display.innerHTML += `
-        <div>
+        <div class="perguntas">
         <h1>${element.pergunta}</h1>
             <ul>
                 <li>

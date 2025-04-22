@@ -113,12 +113,193 @@
       },
       {
         "pergunta": "12. A palavra “sinergia” (linha 36), no texto 2, significa",
-        "certo":0,
+        "certo":2,
         "alternativas":{
             "0": "A) energia.",
             "1": " B) revolução. ",
             "2": "C) união.",
             "3": " D) cura. "
+        }
+      },
+      {
+        "pergunta": "MATEMÁTICA <br><br>13. Seja U o conjunto dos números inteiros menores do que 1000 e maiores do que 100. Considere os subconjuntos de U : X = { n ∈ U; n é múltiplo de 2} e Y = { n ∈ U; n é múltiplo de 3}. O número de elementos do subconjunto X ∪ Y é",
+        "certo":3,
+        "alternativas":{
+            "0": "A) 749. ",
+            "1": "B) 669. ",
+            "2": "C) 629. ",
+            "3": "D) 599."
+        }
+      },
+      {
+        "pergunta": "14. Se n é um número inteiro positivo, define-se fatorial de n, denotado n!, que é expresso por n! = 1.2.3. . . n. Por exemplo, 3! = 1.2.3 = 6; 5! = 1.2.3.4.5 = 120. Assim, é correto afirmar que a quantidade de zeros com que termina o número 15! é",
+        "certo":1,
+        "alternativas":{
+            "0": "A) 6. ",
+            "1": "B) 3. ",
+            "2": "C) 5.",
+            "3": "D) 4"
+        }
+      },
+      {
+        "pergunta": "15. O número de maneiras que se pode utilizar para dividir 10 pessoas em dois grupos de cinco pessoas é",
+        "certo":2,
+        "alternativas":{
+            "0": "A) 252. ",
+            "1": "B) 212. ",
+            "2": "C) 126.",
+            "3": "D) 104."
+        }
+      },
+      {
+        "pergunta": "16. Se forem inseridos cinco números reais entre 7 e 5103, de modo que se forme uma progressão geométrica com sete termos, é correto concluir que o quarto termo dessa progressão é igual a",
+        "certo":1,
+        "alternativas":{
+            "0": "A) 81. ",
+            "1": "B) 189. ",
+            "2": "C) 567. ",
+            "3": "D) 243."  
+        }
+      },
+      {
+        "pergunta": "17. Considere, no plano, o triângulo OIE e K um ponto em seu interior, tal que as medidas dos ângulos OîK, EÔI, KÊO são, cada uma delas, iguais a 45o . Se a medida do lado IE é igual a 8 m, então, é correto afirmar que a medida, em m2 , da área do quadrilátero OIKE é igual a <br><br> <strong>Nota: O prolongamento do segmento IK corta o lado OE no ponto M formando o triângulo OIM retângulo isósceles.</strong>",
+        "certo":3,
+        "alternativas":{
+            "0": "A) 28.",
+            "1": "B) 30. ",
+            "2": "C) 26.",
+            "3": "D) 32. "
+          }
+      },
+      {
+        "pergunta": "18. Os valores de x entre 0 e 2 π que satisfazem a igualdade sen2x = senx são",
+        "certo":2,
+        "alternativas":{
+            "0": "A) π/3 , 2π/3 , 4π/ 3 . ",
+            "1": "B) π/4 , 2π/3 , 4π /5 . ",
+            "2": "C) π/3 , π , 5π/ 3 .",
+            "3": "D) π/5 , 2π/3 , 4π/ 7 . "
+        }
+      },
+      {
+        "pergunta": "19. A medida da aresta de um cubo inscrito em uma esfera cuja medida do raio é 3 m, expressa em metros, é igual a",
+        "certo":0,
+        "alternativas":{
+            "0": "A) 2 √3 . ",
+            "1": "B) 3 √2 . ",
+            "2": "C) √6 . ",
+            "3": "D) 2 √2."
+        }
+      },
+      {
+        "pergunta": "20. O valor do número real positivo x que satisfaz a igualdade 3/ log2 x + 2/ log3 x + 2/ log5 x = 2 é",
+        "certo":1,
+        "alternativas":{
+            "0": "A) 20 √3 . ",
+            "1": "B) 30 √2 . ",
+            "2": "C) 20 √5 . ",
+            "3": "D) 30 √5 ."
+        }
+      },
+      {
+        "pergunta": "21. Container é uma palavra da língua inglesa que pode designar um grande depósito destinado a transportar cargas em portos e aeroportos, sendo usual o formato de um paralelepípedo retangular. Considere um destes “containers” cujas medidas das arestas de seu espaço útil interno são 2,4 m, 4,4 m e 6,0 m, no qual serão empilhadas caixas, também em formato de paralelepípedo retangular, com arestas medindo 30 cm, 55 cm e 75 cm. Assim, é correto afirmar que a quantidade de caixas que podem ser acomodadas no container sem deixar vazios no seu interior é",
+        "certo":3,
+        "alternativas":{
+            "0": "A) 424. ",
+            "1": "B) 480. ",
+            "2": "C) 450.",
+            "3": "D) 512."
+        }
+      },
+      {
+        "pergunta": "22. Em um triângulo retângulo, a medida da hipotenusa é igual a 2 m e as medidas dos ângulos internos, usando a unidade “grau”, constituem uma progressão aritmética. Se as medidas dos catetos, em metro, são x e y, então, o produto x.y é igual a",
+        "certo":1,
+        "alternativas":{
+            "0": "A) √2 m² . ",
+            "1": "B) √3 m² .",
+            "2": "C) 2 √3 m² .",
+            "3": "D) 3 √2 m²"
+        }
+      },
+      {
+        "pergunta": "HISTÓRIA<br><br> 23. Quatro dias após ter desembarcado no Brasil, a corte portuguesa, através do príncipe regente D. João, decretou, em 28 de janeiro de 1808, a Abertura dos Portos brasileiros às Nações Amigas; dois anos depois, em 1810, foram assinados o Tratado de Comércio e Navegação e o tratado de Aliança e Amizade entre os reinos de Portugal e da GrãBretanha. Considerando esses eventos, analise as afirmações a seguir:  I. Esses tratados garantiram a continuidade do controle português sobre as atividades comerciais entre o Brasil e a Europa e fortaleceu a presença lusitana à frente da colonização brasileira.  II. Enquanto a Abertura dos Portos pôs fim ao “Pacto Colonial” ou “Exclusivo Colonial” de Portugal sobre o Brasil, os tratados assinados em 1810 garantiram a predominância britânica sobre o mercado brasileiro. III. Essas decisões de cunho administrativo e econômico são consideradas como os primeiros passos do processo que conduziu à Independência política do Brasil em relação ao reino de Portugal. É correto o que se afirma em ",
+        "certo":2,
+        "alternativas":{
+            "0": "A) I e II apenas.",
+            "1": "B) I e III apenas.",
+            "2": "C) II e III apenas. ",
+            "3": "D) I, II e III."
+        }
+      },
+      {
+        "pergunta": "24. Em 19 de março de 1931 foi publicado o Decreto 19.770 que “Regula a sindicalisação das classes patronaes e operarias e dá outras providências”. Essa legislação impunha, entre outras coisas, que os sindicatos só seriam aceitos legalmente como representantes das categorias profissionais se fossem reconhecidos pelo governo; se, no mínimo, dois terços dos seus membros fossem brasileiros natos ou naturalizados; e se as organizações sindicais se abstivessem de qualquer propaganda de caráter social, político ou religioso e seus participantes se negassem a disputar cargos eletivos estranhos à natureza e finalidade da associação. Já na Constituição de 1934, o mesmo governo Vargas instituiu a jornada de trabalho de oito horas diárias, as férias remuneradas, o descanso semanal obrigatório, a licença para gestantes e a proibição do trabalho para menores de 14 anos. Considerando essas informações, atente para o que se afirma a seguir:  <br>I. Essa busca pelo controle do Estado sobre os sindicatos e a concessão de direitos trabalhistas marca o corporativismo e o controle do movimento sindical comum durante o Governo Vargas. <br>II. Enquanto o controle sindical pelo Estado era solicitação antiga dos trabalhadores, para protegêlos, os direitos trabalhistas foram solicitação dos patrões que tinham consciência social. <br>III. A exigência de dois terços de brasileiros na formação dos sindicatos tentava reduzir a influência de operários imigrantes que disseminavam ideais socialistas e anarquistas. <br>IV. Com sindicatos controlados pelo Estado e perseguição a líderes trabalhistas pelegos e sua substituição por indivíduos que tinham ideais de esquerda, Vargas ganhou força como o “pai dos pobres”.<br> É correto o que se afirma em ",
+        "certo":0,
+        "alternativas":{
+            "0": "A) I e III apenas.",
+            "1": "B) I, II e IV apenas.",
+            "2": "C) II, III e IV apenas.",
+            "3": "D) I, II, III e IV. "
+        }
+      },
+      {
+        "pergunta": "25. Em 2024, a agremiação desportiva Ceará Sporting Club homenageou, em seu uniforme utilizado para as disputas da Copa do Nordeste, a figura do Dragão do Mar, apelido elogioso dado a Francisco José do Nascimento, também conhecido como Chico da Matilde. Sobre esse personagem, é correto afirmar que",
+        "certo":2,
+        "alternativas":{
+            "0": "A) liderou a jornada de jangadeiros cearenses que navegaram 2.700 km em uma jangada, de Fortaleza ao Rio de Janeiro, para entregar a Getúlio Vargas o pedido de inclusão dos pescadores na reforma trabalhista realizada no Estado Novo.",
+            "1": "B) coordenou a luta dos trabalhadores da atividade pesqueira de Fortaleza pela criação da colônia de pescadores, hoje denominada Z8, que representa os interesses daquela comunidade. ",
+            "2": "C) chefiou, em 1881, os jangadeiros que faziam o transporte de pessoas e mercadorias para os navios ancorados no porto de Fortaleza na recusa em realizar o transporte de pessoas escravizadas que seriam vendidas em outras regiões. ",
+            "3": "D) comandou a luta dos pescadores da colônia Z6, localizada na praia do Pecém contra as transformações na sua atividade de trabalho impostas pela instalação do Porto do Pecém que os obrigou a pescar em outras áreas por eles desconhecidas"
+            
+        }
+      },
+      {
+        "pergunta": "26. Atente para o seguinte enunciado: Este modelo é notabilizado como um acordo que “incluiu manobras políticas que permitiram minimizar a influência das oposições e selou o comprometimento da presidência da República com as oligarquias dominantes nos estados, estabelecendo um novo equilíbrio entre estes e o poder central”. (Carlos Alberto Ungaretti Dias. in:<a href='https://cpdoc.fgv.br' target='_blank'> cpdoc.fgv.br </a>.) <br>O enunciado acima descreve o modelo",
+        "certo":1,
+        "alternativas":{
+            "0": "A) dos Interventores Federais, durante o Estado Novo, no qual Getúlio Vargas nomeou os governadores dos estados para garantir o seu poder no âmbito local. ",
+            "1": "B) da Política dos Governadores, quando os presidentes, na República Velha, apoiavam o poder dos chefes regionais em troca da fidelidade das bancadas estaduais no congresso. ",
+            "2": "C) dos Governadores Biônicos, como eram chamados os governadores eleitos por voto indireto nas assembleias estaduais durante a ditadura instalada no Brasil após 1964.",
+            "3": "D) dos Presidentes de Província que, indicados pelo poder central, exerciam o governo local sem mandato definido enquanto durasse o apoio do partido da vez no poder ou do imperador. "
+        }
+      },
+      {
+        "pergunta": "27. “Não terás outros Deuses diante de mim”. Segundo a Bíblia, essa frase teria sido dita por Jeová a Moisés, quando este conduzia o povo hebreu do Egito para a Palestina (o Êxodo). Nesse trajeto, Moisés subiu ao Monte Sinai e recebeu de Jeová as Tábuas da Lei com os Dez Mandamentos. Esse episódio se constitui em um dos momentos mais importantes da história do povo hebreu. Atente para o que se afirma a seguir sobre essa história e assinale com V o que for verdadeiro e com F o que for falso.  <br><br>( ) A frase acima citada demonstra um esforço da elite judaica em direção a uma religião monoteísta assim como o reconhecimento da existência de outros deuses.  <br>( ) A unidade política dos hebreus aconteceu na época dos Juízes que eram, ao mesmo tempo, sacerdotes e chefes militares.  <br>( ) Depois da morte de Salomão, as dez tribos do Norte formaram o Reino de Israel e as duas tribos do Sul formaram o Reino de Judá.  <br>( ) A posição das mulheres entre os hebreus era de muita importância, tanto que o estatuto da etnia hebraica era transmitido pela mãe.  <br><br>A sequência correta, de cima para baixo, é: ",
+        "certo":1,
+        "alternativas":{
+            "0": "A) F, F, V, F. ",
+            "1": "B) V, F, V, F. ",
+            "2": "C) V, V, F, V. ",
+            "3": "D) F, V, F, V. "
+        }
+      },
+      {
+        "pergunta": "28. Nas últimas décadas do século XVIII, a Inglaterra foi palco de um processo conhecido como Revolução Industrial. Considerando esse processo histórico, assinale a afirmação verdadeira.",
+        "certo":2,
+        "alternativas":{
+            "0": "A) A Revolução Industrial foi fruto de um grande avanço tecnológico e suas primeiras máquinas foram construídas a partir de uma base científica complexa. ",
+            "1": "B) Uma das marcas do período foi a desvalorização do significado da palavra trabalho, que passou a representar dor, humilhação e pobreza.",
+            "2": "C) Se por um lado o uso contínuo de máquinas diminuiu a necessidade de mão de obra, por outro levou os industriais a buscarem o trabalho feminino e infantil. ",
+            "3": "D) Em termos de sexualidade, a moral burguesa nos séculos XVIII e XIX apresentou maior liberalização dos costumes se comparada com a moral da nobreza, predominante até então. "
+        }
+      },
+      {
+        "pergunta": "29. Quase todos os cidadãos dos países que participaram na guerra sofreram consequências, mas em graus amplamente diversos. Os historiadores descrevem os acontecimentos principalmente em termos de choques entre exércitos, os quais, é claro, determinaram os resultados, mas o conflito também deve ser entendido como uma experiência humana que mudou a vida de centenas de milhões de pessoas, entre elas muitas que jamais viram um campo de batalha. <br>Considere o que se afirma a seguir a respeito dos custos humanos na Segunda Guerra Mundial:<br><br> I. O extermínio dos judeus foi uma decisão antieconômica na medida em que sua mão de obra escrava poderia ter sido mais bem explorada pelos alemães.  <br>II. Os maiores custos humanos da guerra foram pagos pelos soldados nos campos de batalha. <br>III. Os registros de Auschwitz-Birkenau, o mais notório complexo de campos de extermínio, enfatizam os números que apontam que este campo era exclusivamente destinado aos judeus. <br><br>Está correto somente o que se afirma em ",
+        "certo":0,
+        "alternativas":{
+            "0": "A) I.",
+            "1": "B) II e III. ",
+            "2": "C) II. ",
+            "3": "D) I e III."
+        }
+      },
+      {
+        "pergunta": "30. Em 23 de fevereiro de 1917, milhares de trabalhadores da indústria têxtil e donas de casa tomaram as ruas de Petrogrado, a capital russa, para protestar contra a escassez de pão e celebrar o Dia Internacional da Mulher. Esse dia marcou o início da chamada Revolução de Fevereiro. Sobre esse período da História da Revolução Russa, é correto afirmar que",
+        "certo":0,
+        "alternativas":{
+            "0": "A) a Revolução de Fevereiro derrubou a Monarquia e levou a esquerda: Socialistas Revolucionários, mencheviques e bolcheviques, ao poder.",
+            "1": "B) as duas forças que derrubaram a Monarquia – o movimento de massas e a oposição parlamentar de classe média – foram institucionalizadas no Soviete de Petrogrado e no Governo Provisório. ",
+            "2": "C) o partido bolchevique tinha decidido dar seu apoio condicional ao governo provisório, inclusive com o apoio de Lenin que havia voltado do exílio. ",
+            "3": "D) o Governo Provisório não foi capaz de se manter no poder apesar de ter atendido algumas das reinvindicações do movimento popular."
         }
       }
     ]
